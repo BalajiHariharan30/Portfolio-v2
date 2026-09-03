@@ -82,6 +82,11 @@ export default function Banner(): React.JSX.Element {
                     className="object-cover object-center transition-transform duration-700 group-hover:scale-[1.03]"
                   />
                 </div>
+
+                {/* Floating MERN + AI Top Badge */}
+                <div className="absolute -top-3 -right-2 sm:-top-3.5 sm:-right-3 px-3.5 py-1.5 rounded-xl bg-purple-900/95 border border-purple-400/50 text-purple-200 text-xs sm:text-sm font-bold shadow-xl shadow-purple-950/90 flex items-center gap-1.5 animate-bounce z-20">
+                  <span>⚡</span><span>MERN + AI</span>
+                </div>
               </div>
             </div>
           </div>
