@@ -1,153 +1,57 @@
 %PDF-1.4
-%âãÏÓ
+%ÂµÂ¶
+% Written by MuPDF 1.28.2
+
 1 0 obj
-<<
-/Producer (pypdf)
->>
+<</Producer(pypdf)>>
 endobj
+
 2 0 obj
-<<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
->>
+<</Type/Pages/Count 1/Kids[4 0 R]>>
 endobj
+
 3 0 obj
-<<
-/Type /Catalog
-/Pages 2 0 R
->>
+<</Type/Catalog/Pages 2 0 R>>
 endobj
+
 4 0 obj
-<<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ]
-/Contents 13 0 R
-/MediaBox [ 0 0 612 792 ]
-/Resources <<
-/Font <<
-/F1 14 0 R
-/F1-0 15 0 R
-/F2+0 16 0 R
-/F3+0 20 0 R
-/F4+0 24 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Parent 2 0 R
->>
+<</Type/Page/Annots[5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R]/Contents[30 0 R 31 0 R 33 0 R]/MediaBox[0 0 612 792]/Resources<</Font<</F2+0 16 0 R/F3+0 20 0 R/F4+0 24 0 R/helv 32 0 R>>>>/Rotate 0/Trans<<>>/Parent 2 0 R>>
 endobj
+
 5 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057linkedin\056com\057in\057balaji\055h\055a15845267)
->>
-/Border [ 0 0 0 ]
-/Rect [ 226.7039 740.27 327.4345 749.17 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://linkedin.com/in/balaji-h-a15845267)>>/Border[0 0 0]/Rect[226.7039 740.27 327.4345 749.17]>>
 endobj
+
 6 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057BalajiHariharan30)
->>
-/Border [ 0 0 0 ]
-/Rect [ 336.8512 740.27 421.3796 749.17 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/BalajiHariharan30)>>/Border[0 0 0]/Rect[336.8512 740.27 421.3796 749.17]>>
 endobj
+
 7 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057balaji\055portfolio\055alpha\056vercel\056app\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 430.7963 740.27 455.2664 749.17 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://balaji-portfolio-alpha.vercel.app/)>>/Border[0 0 0]/Rect[430.7963 740.27 455.2664 749.17]>>
 endobj
+
 8 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057BalajiHariharan30\057CareSync\055pro)
->>
-/Border [ 0 0 0 ]
-/Rect [ 14.25 432.891 35.7456 442.383 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/BalajiHariharan30/CareSync-pro)>>/Border[0 0 0]/Rect[14.25 432.891 35.7456 442.383]>>
 endobj
+
 9 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057care\055sync\055pro\055lbel\056vercel\056app\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 45.97028 432.891 77.91737 442.383 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://care-sync-pro-lbel.vercel.app/)>>/Border[0 0 0]/Rect[45.97028 432.891 77.91737 442.383]>>
 endobj
+
 10 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057BalajiHariharan30\057insightops\055saas)
->>
-/Border [ 0 0 0 ]
-/Rect [ 14.25 337.241 35.7456 346.733 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/BalajiHariharan30/insightops-saas)>>/Border[0 0 0]/Rect[14.25 337.241 35.7456 346.733]>>
 endobj
+
 11 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057insightops\055saas\056vercel\056app\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 45.97028 337.241 77.91737 346.733 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://insightops-saas.vercel.app/)>>/Border[0 0 0]/Rect[45.97028 337.241 77.91737 346.733]>>
 endobj
+
 12 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057BalajiHariharan30\057ReserveX)
->>
-/Border [ 0 0 0 ]
-/Rect [ 14.25 262.331 35.7456 271.823 ]
-/Subtype /Link
-/Type /Annot
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/BalajiHariharan30/ReserveX)>>/Border[0 0 0]/Rect[14.25 262.331 35.7456 271.823]>>
 endobj
+
 13 0 obj
-<<
-/Length 21614
->>
+<</Length 21614>>
 stream
 q
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -522,58 +426,25 @@ Q
 
 endstream
 endobj
+
 14 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1>>
 endobj
+
 15 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1>>
 endobj
+
 16 0 obj
-<<
-/BaseFont /AAAAAA+Carlito-Bold
-/FirstChar 0
-/FontDescriptor 17 0 R
-/LastChar 127
-/Name /F2+0
-/Subtype /TrueType
-/ToUnicode 19 0 R
-/Type /Font
-/Widths [ 0 905.2734 498.0469 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 438.4766 498.0469 506.8359 729.0039 704.5898 233.3984 311.5234 311.5234 498.0469 498.0469 257.8125 306.1523 267.0898 429.6875 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 275.8789 275.8789 498.0469 498.0469 498.0469 463.3789 898.4375 605.957 560.5469 529.2969 630.3711 487.793 458.9844 637.207 630.8594 266.6016 331.0547 546.875 422.8516 874.0234 658.6914 676.2695 532.2266 686.0352 562.9883 472.6562 495.1172 652.832 591.3086 906.25 550.7812 519.5312 478.0273 324.707 429.6875 324.707 498.0469 498.0469 300.293 493.6523 536.6211 418.457 536.6211 503.418 316.4062 474.1211 536.6211 245.6055 255.3711 479.9805 245.6055 813.4766 536.6211 537.5977 536.6211 536.6211 355.4688 398.9258 346.6797 536.6211 473.1445 745.1172 459.4727 473.6328 397.4609 343.75 475.0977 343.75 498.0469 506.8359 ]
->>
+<</Type/Font/Subtype/TrueType/BaseFont/AAAAAA+Carlito-Bold/FirstChar 0/FontDescriptor 17 0 R/LastChar 127/Name/F2+0/ToUnicode 19 0 R/Widths[0 905.2734 498.0469 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 438.4766 498.0469 506.8359 729.0039 704.5898 233.3984 311.5234 311.5234 498.0469 498.0469 257.8125 306.1523 267.0898 429.6875 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 275.8789 275.8789 498.0469 498.0469 498.0469 463.3789 898.4375 605.957 560.5469 529.2969 630.3711 487.793 458.9844 637.207 630.8594 266.6016 331.0547 546.875 422.8516 874.0234 658.6914 676.2695 532.2266 686.0352 562.9883 472.6562 495.1172 652.832 591.3086 906.25 550.7812 519.5312 478.0273 324.707 429.6875 324.707 498.0469 498.0469 300.293 493.6523 536.6211 418.457 536.6211 503.418 316.4062 474.1211 536.6211 245.6055 255.3711 479.9805 245.6055 813.4766 536.6211 537.5977 536.6211 536.6211 355.4688 398.9258 346.6797 536.6211 473.1445 745.1172 459.4727 473.6328 397.4609 343.75 475.0977 343.75 498.0469 506.8359]>>
 endobj
+
 17 0 obj
-<<
-/Ascent 750
-/CapHeight 648.4375
-/Descent -250
-/Flags 262148
-/FontBBox [ -501.4648 -272.4609 1164.551 1019.531 ]
-/FontFile2 18 0 R
-/FontName /AAAAAA+Carlito-Bold
-/ItalicAngle 0
-/MissingWidth 506.8359
-/StemV 165
-/Type /FontDescriptor
->>
+<</Type/FontDescriptor/Ascent 750/CapHeight 648.4375/Descent -250/Flags 262148/FontBBox[-501.4648 -272.4609 1164.551 1019.531]/FontFile2 18 0 R/FontName/AAAAAA+Carlito-Bold/ItalicAngle 0/MissingWidth 506.8359/StemV 165>>
 endobj
+
 18 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length1 22196
-/Length 14030
->>
+<</Filter[/FlateDecode]/Length1 22196/Length 14030>>
 stream
 xœ­|	|\Å‘w÷;æ>ôæ¾¤™7·æ–F£ûë²eÙ–dÉ¶F’mÉ²äS¾m|¶Ãi á
 ¼`–1ØŞ„$„°ä"!,›,Ë†,I 7äØ¬ÑWİ3#É„ìï“ıæõëWİ]]]]õïêA!¤FG‹z{úã•[VıJ	9¯Ã5:>5¶CşÅWÂp™Æ÷íqùÅŒ"ÄÀûÚÉ¦şólì“ğ—bï†­&å¿õ¹ B¡ë7NŒ­WÚ•}-ÛôÕ!Cõtï‡gïÆ©=û4ºçç¡şÓ[·íøÕ‘^„z÷¦Æöï`¢*h«´çÚ665±óèg¿Ï{âîÙ±}÷™{Ñs­,!ïwìšØqÏşúZxNÀóQÄr•Ì×7Ÿ„ÊòwöetŒ–g†cîMÄÌô¢ßÎ@¦.´ç@ïıÈÍHPáç¥'¿á"ïØ7yR»‹¤F˜ŞUH‚4ur&ş?ÿã€c	’"ğ¢@J¨[4H‹J€tHÈˆLÈŒ,ÈŠlÈ¨•!'p$"7ò /ò!?
@@ -636,50 +507,25 @@ e°¦ÕK-ê“¨š‰ÁCİ±áL†Ê_“;Ãt<ØâÙp"eçÏ`˜Õøšo}‹ÿñßŞ ß½ Ùm¦²9ãÄ<7';‘_²¡ß)Å
 ]	×¼{.S‚ö1»QãAØ3¿ú\7ÂÕ×¸´p5ÀÕ×r¸šàÚÎ¤Ğ'à:u,‡«®“ì4.M ¯r?	y]Á5¢¯D{Ø_¡}ìãhŠ·¢jX/ídÜèSÌÃHÃ¢QvÚ*É¡›øtß„\+ÚÍ_‰ê¹£Pæ»ÈÏşéø:´ƒû*ÂÒ4’Ãô—rAXQü;r3w£Ûç·à¾Ú÷Ã…˜h)û'ÔÅu£ÃlÕÀ½…“¢æd`¿âğ|%ş_4Ä(g¾Áşmô•’cè¡ç–¢f¸"e˜×Ğ6¶%™o#=<oa¿‡”ü_‘”ı"*a_€C5Ì³h%û"¾îDÖAş›äWPûGh§ÅØwP”}‰Ğ§¤üs´œ´ãö z½şŠşŠácŒ¹Ÿıw'÷o<â«øÇøŸJL’„dH²_ò¼ä¯R‡t±t³ôN™CV+û¹œ‘WÊ'åŸ”gå¯*V [¬|X¥Ruªö©îW3êˆºU}«ú5õŸ5‹4G4/h%ÚQíéwIgÉ­%Ï	6ap»ğœÓ•éVê>£{Z÷¶ş°Á`¸ÎˆŒ×_2}Öôªé¯f—y«ù:ó{–vË½Ö õy›Áv¯=a?fÒ¡p,s\ç8[Ú\:Púz™·,Qv«Sæìt>êü©«ÖµÜuØõ$ÕĞ)ô.x›aÕÃ ^´šD6Ğ/{’·Zô49§Á‘íñ‡éœ'iŒ4ğ”O3H†NÒ,ø£¯Ò,ı~]HóÈ†™BZ‚,ØQHKÑ$®*¤e(ï)¤å¨¿PH+ĞFüv!­DµLo!­š—Vc7èL>­AÕìc¨mG;Ğ´mû»íA.TIY0	©È™€{Š­@³è]Ğÿ]pßïÆi‰h/Ü7BŞ.´ƒ´¦=PónTâğo-»èÖAßÇrŠæn‡ æ	4	©m@³òÇ/h¯ü¢ö[áÚŠÖ€¾€×*Ô ù€«%º6:K}qŠù+¡mÂõ&Ú¾k^­·¦M´Ïcpíü1 ˜€Şš-·zæ*ğGÊA+ë!g	Èb<íFá©>7A¹õô><ü£%>úí‡ó¼›Ö¿›JaÓ,¯;èˆŒAI2ş$5o·ÂŒà¥_O{·r6FëÍ{~Ô¯ ÿbPn·õ—ôtŞMËóÔYĞ,eˆìö@„÷‰Y®·Òr®	{©„H\TË&hé.D~ó³‡öeÛ5/¹ †ä\^b…9p¹vçd¸®MtœÖQMvÇymÏK¸æGMï¹¸.™»¡V"ûTûc”‹­p'³i¼ï–üKKDÿfîFÏ¡Ëüu}wùà)ŒoÎ|EÆeÜ•Åö,ëÙ‘5w¸\Ùàè$ù™¿ÙßM[—e<íO*±$ô¤JøÈ<ÉåËÛŸTÉ¤¡SÜ~Ê‹oèÌ¦o<%aÛOùÉÓ—9D1ı±‹/ã™k³Ü§NñŒü?GÏ
 endstream
 endobj
+
 19 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length 681
->>
+<</Filter[/FlateDecode]/Length 681>>
 stream
 xœuÕËjÛP…á¹ŸBÃ–Rì£}KÁri ƒ^hú,§†XŠ3ÈÛw//“J+°÷/¤ƒ?ğ`Ï¯ïnî†İ±™Ÿİ}l¶»a3õÏ‡—©ë›‡şq7ÌJÛlvİñ|wúîöëq6ÏÃ÷¯ÏÇ~7l³å²™ÿÈ‡ÏÇéµywyº>\¯§§İñğñêğ´y?››6ı´ÿ÷üşeŸú}?›Ålµj6ı6æËzüºŞ÷Íü‡ş¼òóuì›öt_hí›şy\wı´ûÙr±X5Ë¸]Íúaó×³Ò^ğÌÃ¶ûµÎï.òZe—ìvQİ²-Õ;ZµUíUGÕUªú²ê«ª¯«¾©úsÕ·ºTşRªn«®ü¥ò—Ê_*©ü¥ò—Ê_*©ü¥ò—Ê_*©ü-ıí©éÏ‘Mlú[ü-ı-ş£–şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›şÙôçÈ¦?Çl)ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿ÂoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿Áïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿ÃôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÿyCœ7v¶İÛê^¦)Ôi%VÎnèß¶æxq
 ŸßÎ¥ ¤
 endstream
 endobj
+
 20 0 obj
-<<
-/BaseFont /AAAAAA+Carlito-Regular
-/FirstChar 0
-/FontDescriptor 21 0 R
-/LastChar 127
-/Name /F3+0
-/Subtype /TrueType
-/ToUnicode 23 0 R
-/Type /Font
-/Widths [ 0 905.2734 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 400.8789 498.0469 506.8359 714.8438 682.1289 220.7031 303.2227 303.2227 498.0469 498.0469 249.5117 306.1523 252.4414 386.2305 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 267.5781 267.5781 498.0469 498.0469 498.0469 463.3789 894.043 578.6133 543.9453 533.2031 615.2344 488.2812 459.4727 630.8594 623.0469 251.9531 318.8477 519.5312 420.4102 854.9805 645.5078 662.1094 516.6016 672.8516 542.9688 459.4727 487.3047 641.6016 567.3828 889.6484 519.043 487.3047 468.2617 306.6406 386.2305 306.6406 498.0469 498.0469 291.0156 479.0039 525.3906 422.8516 525.3906 497.5586 305.1758 470.7031 525.3906 229.4922 239.2578 454.5898 229.4922 798.8281 525.3906 527.3438 525.3906 525.3906 348.6328 391.1133 334.9609 525.3906 451.6602 714.8438 433.1055 452.6367 395.0195 314.4531 460.4492 314.4531 498.0469 506.8359 ]
->>
+<</Type/Font/Subtype/TrueType/BaseFont/AAAAAA+Carlito-Regular/FirstChar 0/FontDescriptor 21 0 R/LastChar 127/Name/F3+0/ToUnicode 23 0 R/Widths[0 905.2734 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 400.8789 498.0469 506.8359 714.8438 682.1289 220.7031 303.2227 303.2227 498.0469 498.0469 249.5117 306.1523 252.4414 386.2305 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 267.5781 267.5781 498.0469 498.0469 498.0469 463.3789 894.043 578.6133 543.9453 533.2031 615.2344 488.2812 459.4727 630.8594 623.0469 251.9531 318.8477 519.5312 420.4102 854.9805 645.5078 662.1094 516.6016 672.8516 542.9688 459.4727 487.3047 641.6016 567.3828 889.6484 519.043 487.3047 468.2617 306.6406 386.2305 306.6406 498.0469 498.0469 291.0156 479.0039 525.3906 422.8516 525.3906 497.5586 305.1758 470.7031 525.3906 229.4922 239.2578 454.5898 229.4922 798.8281 525.3906 527.3438 525.3906 525.3906 348.6328 391.1133 334.9609 525.3906 451.6602 714.8438 433.1055 452.6367 395.0195 314.4531 460.4492 314.4531 498.0469 506.8359]>>
 endobj
+
 21 0 obj
-<<
-/Ascent 750
-/CapHeight 641.6016
-/Descent -250
-/Flags 4
-/FontBBox [ -489.2578 -258.3008 1147.949 1014.648 ]
-/FontFile2 22 0 R
-/FontName /AAAAAA+Carlito-Regular
-/ItalicAngle 0
-/MissingWidth 506.8359
-/StemV 87
-/Type /FontDescriptor
->>
+<</Type/FontDescriptor/Ascent 750/CapHeight 641.6016/Descent -250/Flags 4/FontBBox[-489.2578 -258.3008 1147.949 1014.648]/FontFile2 22 0 R/FontName/AAAAAA+Carlito-Regular/ItalicAngle 0/MissingWidth 506.8359/StemV 87>>
 endobj
+
 22 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length1 20944
-/Length 13650
->>
+<</Filter[/FlateDecode]/Length1 20944/Length 13650>>
 stream
 xœ­|x\Õ•ğ½¯L/zÓ«43OS¤)*£Ñ¨k<£jÉ¶šm‹¬fYîÂÛ€±1ØÆM1%˜ŞaäC`“°$›–ğo~JÈæË&ÙdÈş) şsß—$»û­ì™{ß}·œsîé÷J#„Ôè0¢Q×ŠŞ’ò-Î£ åCølšKq3B¸>¦‘«÷¸¼Yü:BT¼¯›Ø´ıƒ‘Ûà>Š½›¶cN}w&dªÛ6¾qhTÉíëB¨}úWCƒêæoÇ·ïÙçSşx~æÏlÛ92{Ë¡ëàıûÛ‡öOPqÕ*„:ûáÙµchûÆ=İ÷*<ïGˆ9?±s÷ÙûÀÓ"ï'vmœ¸wM<wÂóˆf,ø$bbÏ²QX!_,é·Ñ1‚$¥e)ŠbhŠùQ³]è7³Ğ(‡Ús «%ÊÎJPáoJ¿Hù\?HŞÑï°²©#Œ°Pª+„Úah¡„öÿé?1 ³I‘ Q %Ì®F¤EyˆC:¤GdD&dFdE6dGäDù¨ `r#âQ!ò"ò£ *BÅ(ˆB(Œ"¨•¢2T¢¨ÅP%Š£*TjP-ªCõ¨5ÆKP¥PjF-¨µ¡v´u N´-G+PêF=¨õ¡•hZúQ­AkÑ:´ h¡+ı¼ˆn!B7öfú ëégŞgËf?…çg?Í>D3(”q…38äue^ëÊ0¾5¦ym¿›wÛ'û]™®®~w&‘¶»2U¤V•N»2Êæ¡ÑL€<*›]™RR)%=^ëêw¹&'‡\EWÿ ´¸È;©U’Zå }0NÛ3(˜NóÔÕ¿1g¨æa¼C ›êêÏ°|2#á“v·;Áƒáâ×è;œt‘7ç•˜*vC5åštMÂtS¥¬w²»°Ë>Ô“îçÓğ.ÑÛ/ìúÜRáÊHSÁóÀ.©Ád8ÃÂ#Ÿä]Ä'‡2ÔğXÀ‚¦8œ‘„\*ªyäe»È™Ä`štl ’Š=PŸ’1ŞAWó$?D¨( ì„0—–Ÿ[?C{ù¡&q°,4Å²Í<ÔÎÈCĞäreä©¥¤#Tød:£ O=ğ¤€§pFreò] Ğ¬•Q¦]“ƒ°€C8£uôõOIqSº0£ŞÈïgT¡îş^±Ñî†v½Ğ®M!Ujeÿ”J•’E0A©åMNÉÉ—¾2Ø„¡½]ıS¨Û“œZÃ²òb7Ãæêvñ=By…–4`Ò
 ğ·BëÅ”û+ôœBHÏ]RÔpc,l d›ûúQFÅ']ƒ°â‹j5ÙL&'§Ôl0³=h÷ e´ĞQgòBS˜”\hŠ"¥.4E“RšbHi ’“Òš’Òš’’Òš’‘Òš’“ÒÊÈ‚ÿÅµm°¶ÆØamR:`mR:amRæÃÚ¤,€µIé‚µIé†µIéµIÉÃÚ¤,¹êşğ†`Yõ +¤L	”Æ,,v‡3¾PÆÌxGıÀ­®¿BT~¨ŠwM®ìÿ›=€+Â™À<¥±)ã/Î`c©€\ÑbB\üª8äŠ	pC(C_ar‹+.JÚ‘éË‚’jjà«¦Š±0	Ş è•áŞª
@@ -738,11 +584,9 @@ Uw¢x”Ö¢mıß¹#œ'ÜNÏxNÈÅá(]Z‘núš^wöôÌ÷6†£v<pZ’áÂlĞ³Oâ~#×Gwgß.­9$ğâr ù1Ö
 \÷mF·\.,&„¾‹gî¼h†´\™"9Ù¸Òº4¼>›…}8Ü‹R R¸ä¦[¨ïº¸.“™İ0+¡ı„ ŠmP)ÛïWÀÿÃQDS?³gÉß¼ü§ãeôFOÿÆ'Ò_‘Òqe0ß”¡ù‰Œ¹ÙåÊÇÈŸÀšÿ›BÃŠo:¯Ä’âó*	|à+}	È›{šÎ«dÒâ)	nš*ÄÇ»û3‰ãıSºiÊG^fyÄMiøyÏÍ0·O±‚wòÿ„ïL
 endstream
 endobj
+
 23 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length 681
->>
+<</Filter[/FlateDecode]/Length 681>>
 stream
 xœ}ÕİjQ†ás¯b[JÑ=ë/Ò¤ô‡¦70Ñ1â(£äî»>?I6¥TĞõ3ğ`Moîoï‡Í±™şwË‡şØ¬7Ãjì»Ó¸ì›Çşi3LJÛ¬6Ëãåêü¹ÜvûÉ4?¼ıö~Xï&óy3ı™7Çñ¥yw}~}¸éÆçÍq÷1oœ»ñıdú}\õãfxúÏ#§ış¹ßöÃ±™M‹fÕ¯óÇ¾vûoİ¶o¦ÿ>÷öÔ¯—}ß´çëBôr·êûnÙİğÔOæ³Ù¢™ÇİbÒ«¿î•öŠg×Ëßİxyv–¯EvÉngEÑmõ½T­U[Õ^uT}Uõ§ª¯«ş\õMÕ·U©úî­Kå/¥êÊ_*©ü¥ò—Ê_*©ü¥ò—Ê_*©ü¥ò—Ê_*K{núsdÓŸ#›şÙô·øZúsdÓŸ#›şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›ş“¹Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ò¯ğ+ı
 ¿Ò¯ğ+ı
@@ -755,40 +599,17 @@ xœ}ÕİjQ†ás¯b[JÑ=ë/Ò¤ô‡¦70Ñ1â(£äî»>?I6¥TĞõ3ğ`Moîoï‡Í±™şwË‡şØ¬7Ãjì»Ó
 ¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ıĞğıĞğıĞğıĞğıĞğıĞğıĞğıĞğı—qÙØX{¯‹hyÇÜQçİx^<X9›¡]Ÿûİ§ğşNæ¤‘
 endstream
 endobj
+
 24 0 obj
-<<
-/BaseFont /AAAAAA+Carlito-Italic
-/FirstChar 0
-/FontDescriptor 25 0 R
-/LastChar 127
-/Name /F4+0
-/Subtype /TrueType
-/ToUnicode 27 0 R
-/Type /Font
-/Widths [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 400.8789 498.0469 506.8359 714.8438 682.1289 220.7031 303.2227 303.2227 498.0469 498.0469 249.5117 306.1523 252.4414 387.6953 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 267.5781 267.5781 498.0469 498.0469 498.0469 463.3789 894.043 578.6133 543.9453 522.4609 615.2344 488.2812 459.4727 630.8594 623.0469 251.9531 318.8477 519.5312 420.4102 854.9805 644.5312 654.2969 516.6016 664.0625 542.9688 452.1484 487.3047 641.6016 567.3828 890.1367 519.043 487.3047 468.2617 306.6406 384.2773 306.6406 498.0469 498.0469 291.0156 514.1602 514.1602 416.0156 514.1602 477.5391 305.1758 514.1602 514.1602 229.4922 239.2578 454.5898 229.4922 791.0156 514.1602 513.1836 514.1602 514.1602 342.7734 389.1602 334.9609 514.1602 445.8008 714.8438 433.1055 447.2656 395.0195 314.4531 460.4492 314.4531 498.0469 506.8359 ]
->>
+<</Type/Font/Subtype/TrueType/BaseFont/AAAAAA+Carlito-Italic/FirstChar 0/FontDescriptor 25 0 R/LastChar 127/Name/F4+0/ToUnicode 27 0 R/Widths[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 400.8789 498.0469 506.8359 714.8438 682.1289 220.7031 303.2227 303.2227 498.0469 498.0469 249.5117 306.1523 252.4414 387.6953 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 267.5781 267.5781 498.0469 498.0469 498.0469 463.3789 894.043 578.6133 543.9453 522.4609 615.2344 488.2812 459.4727 630.8594 623.0469 251.9531 318.8477 519.5312 420.4102 854.9805 644.5312 654.2969 516.6016 664.0625 542.9688 452.1484 487.3047 641.6016 567.3828 890.1367 519.043 487.3047 468.2617 306.6406 384.2773 306.6406 498.0469 498.0469 291.0156 514.1602 514.1602 416.0156 514.1602 477.5391 305.1758 514.1602 514.1602 229.4922 239.2578 454.5898 229.4922 791.0156 514.1602 513.1836 514.1602 514.1602 342.7734 389.1602 334.9609 514.1602 445.8008 714.8438 433.1055 447.2656 395.0195 314.4531 460.4492 314.4531 498.0469 506.8359]>>
 endobj
+
 25 0 obj
-<<
-/Ascent 750
-/CapHeight 641.6016
-/Descent -250
-/Flags 68
-/FontBBox [ -425.7812 -259.7656 1111.328 1014.648 ]
-/FontFile2 26 0 R
-/FontName /AAAAAA+Carlito-Italic
-/ItalicAngle -7
-/MissingWidth 506.8359
-/StemV 87
-/Type /FontDescriptor
->>
+<</Type/FontDescriptor/Ascent 750/CapHeight 641.6016/Descent -250/Flags 68/FontBBox[-425.7812 -259.7656 1111.328 1014.648]/FontFile2 26 0 R/FontName/AAAAAA+Carlito-Italic/ItalicAngle -7/MissingWidth 506.8359/StemV 87>>
 endobj
+
 26 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length1 21100
-/Length 14032
->>
+<</Filter[/FlateDecode]/Length1 21100/Length 14032>>
 stream
 xœ­|`Ç•èÌô¶è… ,QH l`¯ ÁNJìAŠ;©B5J²zq•([r‘w[ã³P.q|ùcû;qîlÇ?Nœœ/Î%N.É%ß÷%‘Hğ¿Y€%+åî’‹İy3óæÍë3 Â!%:†hÔÑŞ“¿ÙşÉ7áÍá›Ù!½K¶!\—qlïn§çÿàï#Dõ@}Éä©™½}3<Ã%Û3µuÿ¤6÷¢:dªÌ˜—·ìU#Ôâø¢ix¡2K]ğ<ÏÓ3»÷|:ã?áùzèÿÑ­ÛÇF¬ƒ™sµø÷gFöí 2õğ¼ ÏÎm#3³ÿtïµ­ICˆùòí³»—îD¯"Ôù&©ß±kbÇ½ûÊJàù—ğ|Ñ‡oE,Bì=lFp$ïô;èF
  (5KQCSÌÇˆZê@¿Y‚—R¸Ğîım(“X¡Â¯‹¤¼N„"uô¬›ŒFÊ ƒ…»‰°L(Şı¿üR°`-Bb$|dHı+‘
@@ -856,51 +677,97 @@ hPIt›Õ¨%§¹:ùí5L¾½F<îv´rè½²¢¼,'”åg}­Oí§%¿DÎx èMšßJy„$b7ş¢@„cİ¹2Ê.
 åİ@ççdez%´ß!HC¶€ÅV¸éš‚úvè¡íØŠh&´ô'¸î!ÿñó?­/¢7»úç1>ûš”Í˜3ùº8Íïˆ›êÎ¸x’ü{®•ÿw4§øºór,Ê:¯Á‡>bç¿´¾«î¼B"Îšáºù|¢³?9Ñ?/¢ëæ½äéE‘G\ƒŸñÒqæ–yVğ ş/€Ô' 
 endstream
 endobj
+
 27 0 obj
-<<
-/Filter [ /FlateDecode ]
-/Length 675
->>
+<</Filter[/FlateDecode]/Length 675>>
 stream
 xœuÕËjÛP…á¹ŸBÃ–Rìã}KÁÒ¤z¡é(²œbÙÈÎ oß½¼Lr(­ÀŞ¿úf{z³º]ÛS3ı1î»ûşÔl¶Ãzìûç±ë›‡şq;LÊ¼Yo»ÓåîüßíÚÃdš‡ï_§~·6ûÉbÑLæÃãi|iŞ]Ÿ¯7íø´=í?®NíÓ¶{?™~×ı¸ÿÿÆıóáğÔïúáÔÌ&Ëe³î7ù©¯íá[»ë›é?½½ôëåĞ7óó}¡¸Û¯ûã¡íú±ûÉb6[6‹¸[Núaı×³2¿â™‡M÷»/ïÎòZf—ªçUKÕZµUíUGÕWUªúºêÏUßT}[õ—ªïŞºTşRùKå/•¿TşRùKå/•¿TşRùKå/•¿TşRùKå/•NÿüÜôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸc²ú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_á7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßàwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáúş ?àúş ?àúş ?àúş ?àúş ?àúş ?àúş ?àúş ÿ²!.› »;ïuuÏã˜+ê¼Ï‹+g;ô¯»ó°?à~ ¤»£
 endstream
 endobj
+
+28 0 obj
+<</Type/Annot/Subtype/Redact/P 4 0 R/F 4/Rect[421.5 735 517.5 742.5]/IC[1 1 1]/AP<</N 29 0 R>>/NM(fitz-A0)>>
+endobj
+
+29 0 obj
+<</Type/XObject/Subtype/Form/BBox[421.5 735 517.5 742.5]/Matrix[1 0 0 1 0 0]/Length 55/Filter/FlateDecode>>
+stream
+xÚ3T0 Â w.##=Ssc3…\.SC3(;Æ61’90UP²:,úQõ€ePõ øDP
+endstream
+endobj
+
+30 0 obj
+<</Length 15566>>
+stream
+q .10196 .10196 .10196 rg BT/F2+0 16.14 Tf 276.5453 765.445 TD (BALAJI H)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.07 Tf 175.9284 748.8375 TD <534f46545741524520454e47494e45455220207c202046554c4c20535441434b20444556454c4f5045522001204d45524e207c20414920494e544547524154494f4e>Tj ET .10196 .10196 .10196 rg BT/F3+0 6.9 Tf 95.1019 737.095 TD (+91 9677674828)Tj ET BT/F3+0 6.9 Tf 142.0644 737.095 TD (  |  )Tj ET BT/F3+0 6.9 Tf 151.4811 737.095 TD (balaji.hdev@gmail.com)Tj ET BT/F3+0 6.9 Tf 217.2872 737.095 TD (  |  )Tj ET .12157 .37255 .65882 rg BT/F3+0 6.9 Tf 226.7039 737.095 TD (linkedin.com/in/balaji-h-a15845267)Tj ET 226.7039 735.195 100.730609 .5999756 re f* .10196 .10196 .10196 rg BT/F3+0 6.9 Tf 327.4345 737.095 TD (  |  )Tj ET .12157 .37255 .65882 rg BT/F3+0 6.9 Tf 336.8512 737.095 TD (github.com/BalajiHariharan30)Tj ET 336.8512 735.195 84.52838 .5999756 re f* BT/F2+0 8.068 Tf 14.25 722.329 TD (PROFESSIONAL SUMMARY)Tj ET 14.25 716.664 583.2 .57598879 re f* .10196 .10196 .10196 rg BT/F3+0 7.492 Tf 14.25 707.802 TD (Full-Stack)Tj ET BT/F3+0 7.492 Tf 46.63773 707.802 TD (Developer)Tj ET BT/F3+0 7.492 Tf 81.19478 707.802 TD (specializing)Tj ET BT/F3+0 7.492 Tf 119.0076 707.802 TD (in)Tj ET BT/F3+0 7.492 Tf 127.8256 707.802 TD (secure,)Tj ET BT/F3+0 7.492 Tf 152.9591 707.802 TD (scalable,)Tj ET BT/F3+0 7.492 Tf 182.369 707.802 TD (and)Tj ET BT/F3+0 7.492 Tf 196.9925 707.802 TD (performance-optimized)Tj ET BT/F3+0 7.492 Tf 272.4227 707.802 TD (web)Tj ET BT/F3+0 7.492 Tf 288.6046 707.802 TD (applications)Tj ET BT/F3+0 7.492 Tf 328.4697 707.802 TD (using)Tj ET BT/F3+0 7.492 Tf 347.6806 707.802 TD (the)Tj ET BT/F3+0 7.492 Tf 361.0164 707.802 TD (MERN)Tj ET BT/F3+0 7.492 Tf 383.1465 707.802 TD (stack.)Tj ET BT/F3+0 7.492 Tf 403.8024 707.802 TD (Built)Tj ET BT/F3+0 7.492 Tf 420.9244 707.802 TD (and)Tj ET BT/F3+0 7.492 Tf 435.5479 707.802 TD (deployed)Tj ET BT/F3+0 7.492 Tf 467.0357 707.802 TD (three)Tj ET BT/F3+0 7.492 Tf 486.7112 707.802 TD (full-stack)Tj ET BT/F3+0 7.492 Tf 517.4308 707.802 TD (applications,)Tj ET BT/F3+0 7.492 Tf 559.1652 707.802 TD (including)Tj ET BT/F3+0 7.492 Tf 589.9251 707.802 TD (an)Tj ET BT/F3+0 7.492 Tf 14.25 698.812 TD (AI-powered)Tj ET BT/F3+0 7.492 Tf 51.8456 698.812 TD (telemedicine)Tj ET BT/F3+0 7.492 Tf 93.28231 698.812 TD (platform)Tj ET BT/F3+0 7.492 Tf 121.7031 698.812 TD (achieving)Tj ET BT/F3+0 7.492 Tf 152.2421 698.812 TD (~400ms)Tj ET BT/F3+0 7.492 Tf 178.1131 698.812 TD (average)Tj ET BT/F3+0 7.492 Tf 204.1012 698.812 TD (API)Tj ET BT/F3+0 7.492 Tf 216.0272 698.812 TD (response)Tj ET BT/F3+0 7.492 Tf 245.6113 698.812 TD (time)Tj ET BT/F3+0 7.492 Tf 261.3858 698.812 TD (and)Tj ET BT/F3+0 7.492 Tf 274.6799 698.812 TD (an)Tj ET BT/F3+0 7.492 Tf 284.0378 698.812 TD (89)Tj ET BT/F3+0 7.492 Tf 293.4653 698.812 TD (Lighthouse)Tj ET BT/F3+0 7.492 Tf 328.6209 698.812 TD (performance)Tj ET BT/F3+0 7.492 Tf 369.9844 698.812 TD (score,)Tj ET BT/F3+0 7.492 Tf 390.0755 698.812 TD (and)Tj ET BT/F3+0 7.492 Tf 403.3696 698.812 TD (a)Tj ET BT/F3+0 7.492 Tf 408.7913 698.812 TD (multi-tenant)Tj ET BT/F3+0 7.492 Tf 448.9952 698.812 TD (SaaS)Tj ET BT/F3+0 7.492 Tf 464.8904 698.812 TD (platform)Tj ET BT/F3+0 7.492 Tf 493.3112 698.812 TD (with)Tj ET BT/F3+0 7.492 Tf 508.6649 698.812 TD (real-time)Tj ET BT/F3+0 7.492 Tf 538.3808 698.812 TD (anomaly)Tj ET BT/F3+0 7.492 Tf 566.3736 698.812 TD (detection.)Tj ET BT/F3+0 7.492 Tf 14.25 689.822 TD (Proficient)Tj ET BT/F3+0 7.492 Tf 46.41156 689.822 TD (in)Tj ET BT/F3+0 7.492 Tf 54.72894 689.822 TD (React.js,)Tj ET BT/F3+0 7.492 Tf 82.93598 689.822 TD (Node.js,)Tj ET BT/F3+0 7.492 Tf 110.5321 689.822 TD (Express.js,)Tj ET BT/F3+0 7.492 Tf 144.7166 689.822 TD (MongoDB,)Tj ET BT/F3+0 7.492 Tf 179.7023 689.822 TD (REST)Tj ET BT/F3+0 7.492 Tf 197.1835 689.822 TD (API)Tj ET BT/F3+0 7.492 Tf 209.9383 689.822 TD (development,)Tj ET BT/F3+0 7.492 Tf 255.0097 689.822 TD (JWT/RBAC)Tj ET BT/F3+0 7.492 Tf 289.7429 689.822 TD (authentication,)Tj ET BT/F3+0 7.492 Tf 339.0102 689.822 TD (Socket.IO,)Tj ET BT/F3+0 7.492 Tf 372.4851 689.822 TD (and)Tj ET BT/F3+0 7.492 Tf 386.6081 689.822 TD (Google)Tj ET BT/F3+0 7.492 Tf 410.8715 689.822 TD (Gemini)Tj ET BT/F3+0 7.492 Tf 435.3472 689.822 TD (API)Tj ET BT/F3+0 7.492 Tf 448.102 689.822 TD (integration.)Tj ET BT/F3+0 7.492 Tf 486.3911 689.822 TD (Transitioned)Tj ET BT/F3+0 7.492 Tf 527.2701 689.822 TD (from)Tj ET BT/F3+0 7.492 Tf 544.7659 689.822 TD (Biotechnology)Tj ET BT/F3+0 7.492 Tf 590.9896 689.822 TD (to)Tj ET BT/F3+0 7.492 Tf 14.25 680.832 TD (software)Tj ET BT/F3+0 7.492 Tf 42.89814 680.832 TD (engineering)Tj ET BT/F3+0 7.492 Tf 80.68082 680.832 TD (through)Tj ET BT/F3+0 7.492 Tf 106.7755 680.832 TD (hands-on)Tj ET BT/F3+0 7.492 Tf 136.9711 680.832 TD (learning)Tj ET BT/F3+0 7.492 Tf 163.4243 680.832 TD (and)Tj ET BT/F3+0 7.492 Tf 176.5727 680.832 TD (project)Tj ET BT/F3+0 7.492 Tf 199.9566 680.832 TD (development,)Tj ET BT/F3+0 7.492 Tf 244.0534 680.832 TD (applying)Tj ET BT/F3+0 7.492 Tf 271.4943 680.832 TD (a)Tj ET BT/F3+0 7.492 Tf 276.7702 680.832 TD (skills-first)Tj ET BT/F3+0 7.492 Tf 307.2328 680.832 TD (approach)Tj ET BT/F3+0 7.492 Tf 337.6369 680.832 TD (along)Tj ET BT/F3+0 7.492 Tf 356.0457 680.832 TD (with)Tj ET BT/F3+0 7.492 Tf 371.2536 680.832 TD (strong)Tj ET BT/F3+0 7.492 Tf 392.4061 680.832 TD (analytical,)Tj ET BT/F3+0 7.492 Tf 424.8917 680.832 TD (problem-solving,)Tj ET BT/F3+0 7.492 Tf 477.7754 680.832 TD (debugging,)Tj ET BT/F3+0 7.492 Tf 513.1035 680.832 TD (and)Tj ET BT/F3+0 7.492 Tf 526.2518 680.832 TD (testing)Tj ET BT/F3+0 7.492 Tf 548.798 680.832 TD (abilities)Tj ET BT/F3+0 7.492 Tf 574.055 680.832 TD (to)Tj ET BT/F3+0 7.492 Tf 582.2026 680.832 TD (build)Tj ET BT/F3+0 7.492 Tf 14.25 671.842 TD (reliable, production-oriented applications.)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 656.98 TD (INTERNSHIP)Tj ET 14.25 651.315 583.2 .57598879 re f* .10196 .10196 .10196 rg BT/F2+0 7.492 Tf 14.25 642.452 TD <536f66747761726520456e67696e65657220496e7465726e202846756c6c2d537461636b20446576656c6f706d656e7429200120436f646f6d6178204469676974616c20536f6c7574696f6e73>Tj ET BT/F2+0 7.492 Tf 532.5645 642.452 TD <4a756c7920323032362002204175672032303236>Tj ET 14.25 631.152 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 631.502 TD (Developed full-stack features for a Hospital Management System using React.js, Node.js, Express.js, and MongoDB, building and integrating RESTful APIs for managing patients, doctors,)Tj ET BT/F3+0 7.492 Tf 24.65 621.132 TD (appointments, and hospital workflows.)Tj ET 14.25 611.562 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 611.912 TD (Implemented JWT authentication and Role-Based Access Control \(RBAC\) to secure application access and backend endpoints.)Tj ET 14.25 601.192 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 601.542 TD (Developed responsive React.js components and reusable UI modules to improve user experience and maintainability.)Tj ET 14.25 590.822 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 591.172 TD (Integrated AI-powered features into application workflows and performed API testing, debugging, database operations, and performance optimization while following Agile development)Tj ET BT/F3+0 7.492 Tf 24.65 580.802 TD (practices.)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 565.94 TD (TECHNICAL SKILLS)Tj ET 14.25 560.275 583.2 .57598879 re f* .10196 .10196 .10196 rg BT/F2+0 7.492 Tf 14.25 551.412 TD (Languages:)Tj ET BT/F3+0 7.492 Tf 48.7871 551.412 TD ( Java, JavaScript, SQL)Tj ET BT/F2+0 7.492 Tf 14.25 541.042 TD (Frontend:)Tj ET BT/F3+0 7.492 Tf 44.87648 541.042 TD ( React.js, Redux Toolkit, Vite, HTML5, CSS3, Ant Design)Tj ET BT/F2+0 7.492 Tf 14.25 530.672 TD (Backend:)Tj ET BT/F3+0 7.492 Tf 42.75838 530.672 TD ( Node.js, Express.js, Spring Boot, REST API Design)Tj ET BT/F2+0 7.492 Tf 14.25 520.302 TD (Database & Caching:)Tj ET BT/F3+0 7.492 Tf 78.41122 520.302 TD ( MongoDB, MySQL, Redis)Tj ET BT/F2+0 7.492 Tf 14.25 509.932 TD (Auth & Security:)Tj ET BT/F3+0 7.492 Tf 65.27828 509.932 TD ( JWT, Role-Based Access Control \(RBAC\))Tj ET BT/F2+0 7.492 Tf 14.25 499.562 TD (Real-Time:)Tj ET BT/F3+0 7.492 Tf 47.55428 499.562 TD ( Socket.io, WebSockets)Tj ET BT/F2+0 7.492 Tf 14.25 489.192 TD (DevOps:)Tj ET BT/F3+0 7.492 Tf 40.43176 489.192 TD ( Git, GitHub Actions \(CI/CD\), Vercel)Tj ET BT/F2+0 7.492 Tf 14.25 478.822 TD (Testing:)Tj ET BT/F3+0 7.492 Tf 38.79654 478.822 TD ( Jest, Supertest, Vitest, React Testing Library)Tj ET BT/F2+0 7.492 Tf 14.25 468.452 TD (AI Integration:)Tj ET BT/F3+0 7.492 Tf 59.3337 468.452 TD ( Google Gemini API)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 453.59 TD (PROJECTS)Tj ET 14.25 447.925 583.2 .57598879 re f* .10196 .10196 .10196 rg BT/F2+0 7.492 Tf 14.25 439.062 TD <4361726553796e6320012041492d506f776572656420446f63746f72204170706f696e746d656e742053797374656d>Tj ET BT/F2+0 7.492 Tf 530.161 439.062 TD <4a756e6520323032362002204175672032303236>Tj ET .12157 .37255 .65882 rg BT/F3+0 7.492 Tf 14.25 429.272 TD (GitHub)Tj ET 14.25 427.222 21.495598 .6000061 re f* .10196 .10196 .10196 rg BT/F3+0 7.492 Tf 35.7456 429.272 TD (  |  )Tj ET .12157 .37255 .65882 rg BT/F3+0 7.492 Tf 45.97028 429.272 TD (Live Demo)Tj ET 45.97028 427.222 31.947094 .6000061 re f* .10196 .10196 .10196 rg BT/F4+0 7.492 Tf 14.25 418.892 TD (Tech Stack: React.js, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, RBAC, Google Gemini API)Tj ET 14.25 407.592 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 407.942 TD (Developed a full-featured platform supporting patient, doctor, and admin workflows for appointment booking, records, and prescriptions.)Tj ET 14.25 397.222 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 397.572 TD (Designed optimized REST APIs achieving an average API response time of 400ms, verified via Chrome DevTools Network panel.)Tj ET 14.25 386.852 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 387.202 TD (Achieved an 89 Lighthouse Performance score with a Largest Contentful Paint of 0.82s through code splitting and lazy loading.)Tj ET 14.25 376.482 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 376.832 TD (Integrated Google Gemini API to deliver AI-assisted features and real-time telemedicine capabilities.)Tj ET 14.25 366.112 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 366.462 TD (Implemented a CI/CD pipeline via GitHub Actions with automated deployment to Vercel's serverless infrastructure, ensuring fast global load times and zero-downtime updates.)Tj ET 14.25 355.742 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 356.092 TD (Ensured application reliability with unit and integration tests using Jest, Supertest, Vitest, and React Testing Library.)Tj ET BT/F2+0 7.492 Tf 14.25 343.412 TD <496e73696768744f707320012041492d506f776572656420496e76656e746f7279202620457870656e7365204d616e6167656d656e7420506c6174666f726d>Tj ET BT/F2+0 7.492 Tf 521.5972 343.412 TD <4d617263682032303236200220417072696c2032303236>Tj ET .12157 .37255 .65882 rg BT/F3+0 7.492 Tf 14.25 333.622 TD (GitHub)Tj ET 14.25 331.572 21.495598 .6000061 re f* .10196 .10196 .10196 rg BT/F3+0 7.492 Tf 35.7456 333.622 TD (  |  )Tj ET .12157 .37255 .65882 rg BT/F3+0 7.492 Tf 45.97028 333.622 TD (Live Demo)Tj ET 45.97028 331.572 31.947094 .6000061 re f* .10196 .10196 .10196 rg BT/F4+0 7.492 Tf 14.25 323.242 TD (Tech Stack: React.js, React Query, Context API, Node.js, Express.js, MongoDB, Redis, Socket.io, JWT, RBAC, Google Gemini API)Tj ET 14.25 311.942 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 312.292 TD (Built a multi-tenant SaaS platform ensuring complete data isolation across organizations using scoped middleware and centralized state management via React Query and Context API.)Tj ET 14.25 301.572 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 301.922 TD (Implemented real-time anomaly detection using Z-score statistical analysis to flag unusual expenses for admin review.)Tj ET 14.25 291.202 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 291.552 TD (Integrated Google Gemini API for natural language search, converting plain English queries into secure, sandboxed database queries with dynamic table/chart results.)Tj ET 14.25 280.832 2.2999993 2.2999879 re f* BT/F3+0 7.492 Tf 24.65 281.182 TD (Used Socket.io to power real-time notifications for anomalies and inventory changes without requiring a page refresh.)Tj ET BT/F2+0 7.492 Tf 14.25 268.502 TD <52657365727665582001205072656d69756d205469636b657420426f6f6b696e6720506c6174666f726d>Tj ET BT/F2+0 7.492 Tf 534.1375 268.502 TD <4f637420323032352002204465632032303235>Tj ET .12157 .37255 .65882 rg BT/F3+0 7.492 Tf 14.25 258.712 TD (GitHub)Tj ET 14.25 256.662 21.495598 .6000061 re f* .10196 .10196 .10196 rg BT/F4+0 7.492 Tf 14.25 248.332 TD (Tech Stack: React.js, Redux, Node.js, Express.js, MongoDB, Socket.io, JWT, RBAC)Tj ET 14.25 237.032 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 237.382 TD (Built a MERN ticket booking platform with real-time seat locking via Socket.io and atomic concurrency control to prevent double-bookings.)Tj ET 14.25 226.662 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 227.012 TD (Implemented three-tier RBAC \(User, Manager, Admin\) with secured REST APIs, a custom promo engine, and Recharts-based analytics dashboards.)Tj ET 14.25 216.292 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 216.642 TD (Designed a responsive, glassmorphic UI with Google Sign-In, GPS-based location detection, and UPI QR code checkout.)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 201.78 TD (EDUCATION)Tj ET 14.25 196.115 583.2 .576004 re f* .10196 .10196 .10196 rg BT/F2+0 7.492 Tf 14.25 187.252 TD <422e5465636820022042696f746563686e6f6c6f67792c2042616e6e61726920416d6d616e20496e73746974757465206f6620546563686e6f6c6f6779>Tj ET BT/F2+0 7.492 Tf 547.3034 187.252 TD (Graduated 2026)Tj ET BT/F3+0 7.492 Tf 14.25 177.452 TD (CGPA: 8.0 / 10)Tj ET BT/F2+0 7.492 Tf 14.25 165.352 TD (Senior Secondary \(XII\), SRV Matric Hr. Sec. School)Tj ET BT/F2+0 7.492 Tf 559.9534 165.352 TD <3230323120022032303232>Tj ET BT/F3+0 7.492 Tf 14.25 155.552 TD (Score: 85%)Tj ET BT/F2+0 7.492 Tf 14.25 143.452 TD (Secondary \(X\), SRV Matric Hr. Sec. School)Tj ET BT/F2+0 7.492 Tf 559.9534 143.452 TD <3230313920022032303230>Tj ET BT/F3+0 7.492 Tf 14.25 133.652 TD (Score: 96%)Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 118.79 TD (CERTIFICATIONS)Tj ET 14.25 113.125 583.2 .5759964 re f* .10196 .10196 .10196 rg 14.25 103.912 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 104.262 TD <4167656e7469632041492043657274696669656420466f756e646174696f6e73204173736f63696174652001204f7261636c652c204a756c792032303236>Tj ET 14.25 93.542 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 93.892 TD <46756c6c20537461636b20446576656c6f706d656e742001204755564920782048434c2c204d61792032303236>Tj ET .12157 .37255 .65882 rg BT/F2+0 8.068 Tf 14.25 79.03 TD (ACHIEVEMENTS & LEADERSHIP)Tj ET 14.25 73.365 583.2 .5759964 re f* .10196 .10196 .10196 rg 14.25 64.152 2.2999993 2.300003 re f* BT/F3+0 7.492 Tf 24.65 64.502 TD <57696e6e65722c2053524d2054656368537065637472756d202732352001207265636f676e697a656420666f722066756c6c2d737461636b2070726f6a65637420657863656c6c656e63652e>Tj ET 14.25 53.782 2.2999993 2.2999993 re f* BT/F3+0 7.492 Tf 24.65 54.132 TD (Mentored 50+ students in React and Java as a Technical Trainer.)Tj ET 14.25 43.412 2.2999993 2.2999993 re f* BT/F3+0 7.492 Tf 24.65 43.762 TD (Served as Event Head for LEO-FEST and AURA'25, leading end-to-end technical operations including logistics, AV/technical setup, and cross-team coordination.)Tj ET Q q 0 0 612 792 re W n 1 1 1 rg 93.5 734 56.5 9.5 re f* Q
+endstream
+endobj
+
+31 0 obj
+<</Length 47>>
+stream
+
+q
+421.5 735 96 7.5 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+endstream
+endobj
+
+32 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding>>
+endobj
+
+33 0 obj
+<</Length 119/Filter/FlateDecode>>
+stream
+xÚ…Š1
+AEûœ"'“ÌL2±dÁNI'VëªÅn¡…çwö ">ï}>¼`ÀH=ŒE8å†–-‘WŒ6Ïiş &Ç¸cbbW²æ?ğ<üÿ¼xÙ
+	Ù¸v-&êšµ™Ë¸º²ŞúÒ¹L‹Õİ5p8ÁŒ%d
+endstream
+endobj
+
 xref
-0 28
+0 34
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000478 00000 n 
-0000000692 00000 n 
-0000000891 00000 n 
-0000001105 00000 n 
-0000001321 00000 n 
-0000001536 00000 n 
-0000001756 00000 n 
-0000001963 00000 n 
-0000002173 00000 n 
-0000023841 00000 n 
-0000023949 00000 n 
-0000024057 00000 n 
-0000025159 00000 n 
-0000025413 00000 n 
-0000039537 00000 n 
-0000040295 00000 n 
-0000041407 00000 n 
-0000041658 00000 n 
-0000055402 00000 n 
-0000056160 00000 n 
-0000057264 00000 n 
-0000057516 00000 n 
-0000071642 00000 n 
+0000000042 00000 n 
+0000000079 00000 n 
+0000000131 00000 n 
+0000000177 00000 n 
+0000000417 00000 n 
+0000000586 00000 n 
+0000000749 00000 n 
+0000000918 00000 n 
+0000001092 00000 n 
+0000001259 00000 n 
+0000001437 00000 n 
+0000001602 00000 n 
+0000001773 00000 n 
+0000023440 00000 n 
+0000023538 00000 n 
+0000023636 00000 n 
+0000024722 00000 n 
+0000024960 00000 n 
+0000039078 00000 n 
+0000039831 00000 n 
+0000040927 00000 n 
+0000041162 00000 n 
+0000054900 00000 n 
+0000055653 00000 n 
+0000056741 00000 n 
+0000056977 00000 n 
+0000071097 00000 n 
+0000071844 00000 n 
+0000071970 00000 n 
+0000072168 00000 n 
+0000087787 00000 n 
+0000087884 00000 n 
+0000087974 00000 n 
+
 trailer
-<<
-/Size 28
-/Root 3 0 R
-/Info 1 0 R
->>
+<</Size 34/Info 1 0 R/Root 3 0 R/ID[<2264C39EC395C384C3967D32C3AEC398><37259C59469D3D016EA1AE98D78D1F22>]>>
 startxref
-72394
+88163
 %%EOF
