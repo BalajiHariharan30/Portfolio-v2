@@ -11,13 +11,13 @@ export default function Header(): React.JSX.Element {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#110720]/85 backdrop-blur-md border-b border-white/10 transition-all duration-300">
       <nav className="px-6 py-4">
         <div className="container mx-auto max-w-6xl flex items-center justify-between h-full">
-          {/* Brand Logo: balaji.in */}
+          {/* Brand Logo: Balaji.in */}
           <Link
             href="/"
             className="text-2xl font-black text-white hover:opacity-90 transition-all flex items-center gap-0.5 group tracking-tight"
           >
             <span className="font-extrabold tracking-tight text-white group-hover:text-purple-200 transition-colors">
-              balaji
+              Balaji
             </span>
             <span className="bg-gradient-to-r from-purple-400 via-violet-400 to-indigo-400 bg-clip-text text-transparent font-black">
               .in
