@@ -7,7 +7,7 @@ import Magnetic from "./Magnetic";
 
 const ROLES = [
   "Full-Stack Developer",
-  "MERN Stack Specialist",
+  "MERN Stack Developer",
   "AI & Web Integrator",
   "Agile Problem Solver",
 ];

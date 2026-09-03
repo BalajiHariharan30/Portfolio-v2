@@ -11,19 +11,18 @@ export default function Header(): React.JSX.Element {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#110720]/85 backdrop-blur-md border-b border-white/10 transition-all duration-300">
       <nav className="px-6 py-4">
         <div className="container mx-auto max-w-6xl flex items-center justify-between h-full">
-          {/* Exact Logo from Figma template */}
+          {/* Brand Logo: balaji.in */}
           <Link
             href="/"
-            className="text-2xl font-bold text-white hover:text-purple-400 transition-colors flex items-center gap-3 group"
+            className="text-2xl font-black text-white hover:opacity-90 transition-all flex items-center gap-0.5 group tracking-tight"
           >
-            <Image
-              src="/logo/logo.svg"
-              alt="Logo"
-              width={100}
-              height={100}
-              style={{ width: "auto", height: "auto" }}
-              className="group-hover:scale-105 transition-transform duration-300"
-            />
+            <span className="font-extrabold tracking-tight text-white group-hover:text-purple-200 transition-colors">
+              balaji
+            </span>
+            <span className="bg-gradient-to-r from-purple-400 via-violet-400 to-indigo-400 bg-clip-text text-transparent font-black">
+              .in
+            </span>
+            <span className="w-1.5 h-1.5 rounded-full bg-purple-400 animate-ping ml-1" />
           </Link>
 
           {/* Nav Links */}

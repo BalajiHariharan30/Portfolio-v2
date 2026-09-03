@@ -10,7 +10,9 @@ export default function Footer(): React.JSX.Element {
     subject: "",
     message: "",
   });
-  const [status, setStatus] = useState<"idle" | "submitting" | "success">("idle");
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+  const [errorMessage, setErrorMessage] = useState("");
+  const [needsActivation, setNeedsActivation] = useState(false);
   const [copied, setCopied] = useState(false);
 
   const handleCopyEmail = () => {
@@ -19,20 +21,73 @@ export default function Footer(): React.JSX.Element {
     setTimeout(() => setCopied(false), 2500);
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus("submitting");
+    setErrorMessage("");
+    setNeedsActivation(false);
 
-    const mailtoUrl = `mailto:balaji.hdev@gmail.com?subject=${encodeURIComponent(
-      formData.subject || `Inquiry from ${formData.name}`
-    )}&body=${encodeURIComponent(
-      `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
-    )}`;
+    try {
+      // Direct client-side dispatch with proper browser headers
+      const res = await fetch("https://formsubmit.co/ajax/balaji.hdev@gmail.com", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          _subject: formData.subject || `New Portfolio Inquiry from ${formData.name}`,
+          message: formData.message,
+          _captcha: "false",
+          _template: "table",
+        }),
+      });
 
-    setTimeout(() => {
-      window.location.href = mailtoUrl;
-      setStatus("success");
-    }, 500);
+      const data = await res.json().catch(() => ({}));
+
+      if (res.ok && (data.success === true || data.success === "true")) {
+        setStatus("success");
+        return;
+      }
+
+      if (data.message && typeof data.message === "string" && data.message.toLowerCase().includes("activation")) {
+        setNeedsActivation(true);
+        throw new Error(data.message);
+      }
+
+      throw new Error(data.message || "Failed to dispatch directly.");
+    } catch {
+      // Fallback through internal Next.js API route
+      try {
+        const res2 = await fetch("/api/contact", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(formData),
+        });
+
+        const data2 = await res2.json().catch(() => ({}));
+
+        if (res2.ok && (data2.success === true || data2.success === "true")) {
+          setStatus("success");
+          return;
+        }
+
+        if (data2.needsActivation) {
+          setNeedsActivation(true);
+        }
+        throw new Error(data2.error || "Failed to deliver message.");
+      } catch (err2: unknown) {
+        console.error("Message dispatch failed:", err2);
+        setStatus("error");
+        setErrorMessage(
+          err2 instanceof Error ? err2.message : "Failed to deliver message. Please try again."
+        );
+      }
+    }
   };
 
   return (
@@ -108,11 +163,11 @@ export default function Footer(): React.JSX.Element {
               <div className="p-6 rounded-2xl bg-emerald-500/10 border border-emerald-500/30 text-center space-y-3">
                 <span className="text-3xl">✉️</span>
                 <h4 className="text-emerald-300 font-bold text-lg">
-                  Inquiry Dispatched!
+                  Message Sent Directly to Balaji!
                 </h4>
                 <p className="text-white/80 text-sm">
-                  Your message has been formatted and routed to Balaji&apos;s direct mailbox.
-                  I will get back to you at <span className="text-purple-300 font-semibold">{formData.email}</span>.
+                  Your message has been routed to <span className="text-purple-300 font-semibold">balaji.hdev@gmail.com</span>.
+                  I will get back to you at <span className="text-purple-300 font-semibold">{formData.email}</span> shortly.
                 </p>
                 <button
                   onClick={() => {
@@ -126,6 +181,34 @@ export default function Footer(): React.JSX.Element {
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-4">
+                {status === "error" && (
+                  needsActivation ? (
+                    <div className="p-5 rounded-2xl bg-amber-500/15 border border-amber-500/40 text-center space-y-2">
+                      <div className="text-2xl">📬</div>
+                      <h4 className="text-amber-300 font-bold text-sm">One-Time Activation Required</h4>
+                      <p className="text-white/80 text-xs leading-relaxed">
+                        FormSubmit has sent a confirmation email to <span className="text-purple-300 font-semibold">balaji.hdev@gmail.com</span>.
+                      </p>
+                      <p className="text-amber-200/90 text-xs font-medium">
+                        Please open your Gmail (check <strong>Inbox</strong> &amp; <strong>Spam / Junk</strong> folder) and click <strong>&quot;Activate Form&quot;</strong>. Once activated, every message will arrive directly in your inbox!
+                      </p>
+                    </div>
+                  ) : (
+                    <div className="p-4 rounded-xl bg-red-500/10 border border-red-500/30 text-xs text-red-200 text-center space-y-2">
+                      <p>{errorMessage || "Failed to dispatch message automatically."}</p>
+                      <a
+                        href={`mailto:balaji.hdev@gmail.com?subject=${encodeURIComponent(
+                          formData.subject || `Inquiry from ${formData.name}`
+                        )}&body=${encodeURIComponent(
+                          `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
+                        )}`}
+                        className="inline-block underline text-purple-300 hover:text-purple-200 font-medium"
+                      >
+                        Click here to send via your email client ↗
+                      </a>
+                    </div>
+                  )
+                )}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   <div>
                     <label className="block text-white/80 text-xs font-medium mb-1.5">
@@ -189,7 +272,13 @@ export default function Footer(): React.JSX.Element {
                   className="w-full py-3.5 rounded-xl bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-sm sm:text-base shadow-lg shadow-purple-900/40 hover:shadow-purple-700/60 transition-all flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
                 >
                   {status === "submitting" ? (
-                    <span>Preparing Message...</span>
+                    <div className="flex items-center gap-2">
+                      <svg className="animate-spin h-4 w-4 text-white" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
+                      </svg>
+                      <span>Delivering Message...</span>
+                    </div>
                   ) : (
                     <>
                       <span>Send Message</span>

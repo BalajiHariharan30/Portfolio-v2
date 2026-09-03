@@ -23,7 +23,7 @@ Tailored for a **Full-Stack / MERN Stack Engineer** (B.Tech Graduate, Bannari Am
 
 1. **Header & Navigation**: Sticky glassmorphic navbar with anchor links, responsive mobile drawer menu, and direct "Resume ↗" CTA button.
 2. **Hero / Banner**: Dynamic typewriter cycling through core roles, glowing status badge (`🎓 Graduating 2026 · Open to Software Engineering Roles`), professional photo card, and clear action CTAs.
-3. **About & Engineering Story**: QuillBot-refined narrative detailing the journey from Biotechnology systems thinking to software architecture, accompanied by key metric highlights (4+ apps, 50+ engineers mentored, 8.0 CGPA, 4x certified).
+3. **About & Engineering Story**: QuillBot-refined narrative detailing the journey from Biotechnology systems thinking to software architecture, accompanied by key metric highlights (4+ apps, 50+ students mentored, 8.0 CGPA, 4x certified).
 4. **Interactive Skills Matrix**: Categorized, filterable skill pills across Frontend, Backend & APIs, Databases & AI, and DevOps & Tools with glowing hover cards.
 5. **Featured Production Applications**:
    * **CareSync**: AI Clinical Appointment & Telemedicine System (Live on Vercel)

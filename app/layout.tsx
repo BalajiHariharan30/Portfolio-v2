@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://balaji-portfolio-alpha.vercel.app/",
+    url: "https://balaji-in.vercel.app/",
     title: "Balaji H — Full Stack Developer | MERN Stack Engineer",
     description: "Architecting scalable web applications, real-time distributed systems, and AI-augmented digital experiences.",
     siteName: "Balaji H Portfolio",
@@ -68,7 +68,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://balaji-portfolio-alpha.vercel.app/" />
+        <link rel="canonical" href="https://balaji-in.vercel.app/" />
       </head>
       <body className={`${poppins.variable} font-sans antialiased`}>
         {children}
